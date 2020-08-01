@@ -17,3 +17,9 @@ npm i axios
 # Serve on localhost:3000
 npm run dev
 ```
+
+## ScreenShots
+![Screenshot 2020-08-01 at 12 40 01 PM](https://user-images.githubusercontent.com/34600724/89096697-27b7e480-d3f6-11ea-9d54-d6423c1d954a.png)
+
+### After uploading file
+![Screenshot 2020-08-01 at 12 40 28 PM](https://user-images.githubusercontent.com/34600724/89096703-2edef280-d3f6-11ea-857d-5c6853e84b94.png)
