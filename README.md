@@ -7,8 +7,12 @@
 ```bash
 # Install dependencies server/client
 npm install
+npm i express express-fileupload
+npm i -D nodemon concurrently
+
 cd client
 npm install
+npm i axios
 
 # Serve on localhost:3000
 npm run dev
